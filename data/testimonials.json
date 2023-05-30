@@ -1,0 +1,33 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Priya Bhangad",
+      "firstName": "Priya",
+      "position": "Sr.Developer",
+      "info": "“Having good restaurant reviews is crucial these days. It is not just making our decision to pick one easier, it is also helping the restaurant be more successful. You can quickly copy and paste these good restaurant review examples, publish them on Facebook”",
+      "class": "active"
+    },
+    {
+      "id": 2,
+      "name": "Maya Singh",
+      "firstName": "Maya",
+      "position": "Data Scientist",
+      "info": "“Having good restaurant reviews is crucial these days. It is not just making our decision to pick one easier, it is also helping the restaurant be more successful. You can quickly copy and paste these good restaurant review examples, publish them on Facebook”"
+    },
+    {
+      "id": 3,
+      "name": "Ashwin Taiyde",
+      "firstName": "Ashwin",
+      "position": "Market Sales",
+      "info": "“Having good restaurant reviews is crucial these days. It is not just making our decision to pick one easier, it is also helping the restaurant be more successful. You can quickly copy and paste these good restaurant review examples, publish them on Facebook”"
+    },
+    {
+      "id": 4,
+      "name": "Silk Murphy",
+      "firstName": "Silk",
+      "position": "Marketing Coordinator ",
+      "info": "“Having good restaurant reviews is crucial these days. It is not just making our decision to pick one easier, it is also helping the restaurant be more successful. You can quickly copy and paste these good restaurant review examples, publish them on Facebook”"
+    }
+  ]
+}
